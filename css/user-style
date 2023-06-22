@@ -1,0 +1,179 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#iya7 {
+    font-size: 30px;
+}
+
+#iq7e {
+    font-size: 30px;
+}
+
+#io78v {
+    font-size: 80px;
+}
+
+#nav-1 .header-inner {
+    width: 100%;
+}
+
+#nav-1 .header-inner::after {
+    content: " ";
+    height: 0px;
+    display: block;
+    visibility: hidden;
+    clear: both;
+}
+
+#nav-1 h1 {
+    float: left;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-weight: 900;
+    font-size: 28px;
+    margin-bottom: 0px;
+    text-transform: uppercase;
+    font-family: Roboto, Arial, sans-serif;
+}
+
+#nav-1 > a {
+    display: inline-block;
+    width: 138px;
+    height: 22px;
+}
+
+#nav-1 img {
+    height: 22px;
+    width: auto;
+}
+
+#nav-1 nav {
+    float: right;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+#nav-1 nav ul {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#nav-1 nav ul li {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 6px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    list-style-position: initial;
+    list-style-image: initial;
+    list-style-type: none;
+    display: inline-block;
+    zoom: 1;
+}
+
+#nav-1 nav ul li a {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 16px;
+    padding-top: 6px;
+    padding-right: 14px;
+    padding-bottom: 6px;
+    padding-left: 14px;
+    position: relative;
+    transition-duration: 0.2s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+}
+
+#nav-1 nav ul li a:hover {
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+#nav-1 nav ul li a.active, #nav-1 nav ul li a:focus {
+    outline-color: initial;
+    outline-style: none;
+    outline-width: initial;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: white;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(31, 181, 123);
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.fdb-block .text-h1, .fdb-block h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block .text-h2, .fdb-block h2 {
+    font-size: 1rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block .text-h3, .fdb-block h3 {
+    font-size: 0.875rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.c1365 {
+    color: hsl(210, 75%, 60%);
+}
+
+.c1410 {
+    color: hsl(210, 75%, 60%);
+}
+
+.c1455 {
+    color: hsl(0, 75%, 60%);
+}
+
+.c1500 {
+    color: hsl(120, 75%, 60%);
+    font-size: 25px;
+}
+
+.c1536 {
+    color: hsl(120, 75%, 60%);
+    font-size: 25px;
+}
